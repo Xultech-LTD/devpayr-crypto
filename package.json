@@ -1,0 +1,16 @@
+{
+  "name": "@xultech/devpayr-crypto",
+  "version": "1.0.0",
+  "description": "Secure AES-256-CBC encryption module for DevPayr SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Erastus",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xultech-LTD/devpayr-crypto"
+  }
+}
