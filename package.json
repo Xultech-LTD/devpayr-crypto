@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+   "keywords": ["devpayr", "crypto", "encryption", "aes-256-cbc"],
   "author": "Michael Erastus",
   "license": "MIT",
   "repository": {
