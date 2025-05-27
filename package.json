@@ -1,6 +1,6 @@
 {
   "name": "@xultech/devpayr-crypto",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Secure AES-256-CBC encryption module for DevPayr SDK",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
