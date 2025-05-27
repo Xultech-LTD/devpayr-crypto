@@ -1,0 +1,6 @@
+# .npmignore
+src/
+test.js
+tsconfig.json
+.gitignore
+.vscode/
